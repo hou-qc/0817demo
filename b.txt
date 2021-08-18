@@ -7,10 +7,7 @@ sdsad
 aaa
 66666
 77777
-<<<<<<< HEAD
-=======
 aaa
 ddd
->>>>>>> dev3
 devdev
 
